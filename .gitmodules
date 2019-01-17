@@ -10,3 +10,12 @@
 [submodule "interest-demo"]
 	path = interest-demo
 	url = https://github.com/Gonsin/interest-demo.git
+[submodule "myblogvue"]
+	path = myblogvue
+	url = https://github.com/Gonsin/myblogvue.git
+[submodule "vue_mockjs"]
+	path = vue_mockjs
+	url = https://github.com/Gonsin/vue_mockjs.git
+[submodule "vue.js2.X-elementUI"]
+	path = vue.js2.X-elementUI
+	url = https://github.com/Gonsin/vue.js2.X-elementUI.git
