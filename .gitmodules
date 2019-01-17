@@ -1,3 +1,12 @@
 [submodule "wx-app"]
 	path = wx-app
 	url = https://github.com/gonsin/wx-app
+[submodule "eladmin-demo"]
+	path = eladmin-demo
+	url = https://github.com/Gonsin/eladmin-demo.git
+[submodule "dubbo-demo"]
+	path = dubbo-demo
+	url = https://github.com/Gonsin/dubbo-demo.git
+[submodule "interest-demo"]
+	path = interest-demo
+	url = https://github.com/Gonsin/interest-demo.git
