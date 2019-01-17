@@ -1,6 +1,3 @@
-[submodule "wx-app"]
-	path = wx-app
-	url = https://github.com/gonsin/wx-app
 [submodule "eladmin-demo"]
 	path = eladmin-demo
 	url = https://github.com/Gonsin/eladmin-demo.git
